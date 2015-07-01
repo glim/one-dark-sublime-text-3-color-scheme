@@ -11,21 +11,21 @@ A port of the One Dark color scheme from Github's Atom.io editor. If you notice 
 
 ##Examples
 ####HTML
-![Screenshot](http://i.imgur.com/XcKyiFD.jpg  "HTML Screenshot")
+![Screenshot](http://i.imgur.com/luf2s86.png  "HTML Screenshot")
 ---
 ####CSS
-![Screenshot](http://i.imgur.com/oYcncB4.jpg  "CSS Screenshot")
+![Screenshot](http://i.imgur.com/dl92tPh.png  "CSS Screenshot")
 ---
 ####JavaScript
-![Screenshot](http://i.imgur.com/uFzifM2.jpg  "Javscript Screenshot")
+![Screenshot](http://i.imgur.com/kRCEblz.png  "Javscript Screenshot")
 ---
 ####PHP
-![Screenshot](http://i.imgur.com/jxhn3dg.jpg  "PHP Screenshot")
+![Screenshot](http://i.imgur.com/JUHrx5H.png  "PHP Screenshot")
 ---
 ####Python
-![Screenshot](http://i.imgur.com/FwqbOBs.jpg  "Python Screenshot")
+![Screenshot](http://i.imgur.com/tJsH6fx.png  "Python Screenshot")
 ---
 ####Ruby
-![Screenshot](http://i.imgur.com/11ODKvN.jpg  "Ruby Screenshot")
+![Screenshot](http://i.imgur.com/5y2ziyT.png  "Ruby Screenshot")
 
 Made with :heart:
