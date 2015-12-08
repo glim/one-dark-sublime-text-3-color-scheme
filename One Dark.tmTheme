@@ -720,6 +720,30 @@
 				<string>#D19A66</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>latex label names</string>
+			<key>scope</key>
+			<string>text.tex.latex                               meta.function.environment.math.latex                               string.other.math.block.environment.latex                               meta.definition.label.latex                               variable.parameter.definition.label.latex</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>latex italic emph</string>
+			<key>scope</key>
+			<string>text.tex.latex                           meta.function.emph.latex                              markup.italic.emph.latex</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> italic</string>
+				<key>foreground</key>
+				<string>#C678DD</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
