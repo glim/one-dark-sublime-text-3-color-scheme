@@ -85,18 +85,18 @@
 			<key>name</key>
 			<string>Operators</string>
 			<key>scope</key>
-			<string>keyword.operator</string>
+			<string>keyword.operator, storage.type.function.coffee</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ABB2BF</string>
+				<string>#C678DD</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Keywords</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword, support.function.construct, storage.type, storage.modifier</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
